@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle.Tests", "Triangle.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle.Examples", "Triangle.Examples\Triangle.Examples.csproj", "{70EC2A88-E7CC-4678-9936-ED539969B003}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle.Rendering", "Triangle.Rendering\Triangle.Rendering.csproj", "{20D64FA8-EC38-4507-9D99-96F855ED62C0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

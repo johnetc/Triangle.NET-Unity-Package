@@ -1,0 +1,9 @@
+{
+    "name": "com.wo80.triangledotnet",
+    "version": "0.1.0",
+    "displayName": "Triangle.NET",
+    "description": "Triangle.NET generates 2D (constrained) Delaunay triangulations and high-quality meshes of point sets or planar straight line graphs.",
+    "unity": "2021.2",
+    "documentationUrl": "https://github.com/wo80/Triangle.NET",
+    "licensesUrl": "https://github.com/wo80/Triangle.NET#license"    
+  }
